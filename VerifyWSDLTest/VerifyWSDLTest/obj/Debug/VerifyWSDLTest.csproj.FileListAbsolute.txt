@@ -1,0 +1,7 @@
+C:\Users\Victo\OneDrive\Área de Trabalho\SalesforceConnetion\VerifyWSDLTest\VerifyWSDLTest\bin\Debug\VerifyWSDLTest.exe.config
+C:\Users\Victo\OneDrive\Área de Trabalho\SalesforceConnetion\VerifyWSDLTest\VerifyWSDLTest\bin\Debug\VerifyWSDLTest.exe
+C:\Users\Victo\OneDrive\Área de Trabalho\SalesforceConnetion\VerifyWSDLTest\VerifyWSDLTest\bin\Debug\VerifyWSDLTest.pdb
+C:\Users\Victo\OneDrive\Área de Trabalho\SalesforceConnetion\VerifyWSDLTest\VerifyWSDLTest\obj\Debug\VerifyWSDLTest.csprojAssemblyReference.cache
+C:\Users\Victo\OneDrive\Área de Trabalho\SalesforceConnetion\VerifyWSDLTest\VerifyWSDLTest\obj\Debug\VerifyWSDLTest.csproj.CoreCompileInputs.cache
+C:\Users\Victo\OneDrive\Área de Trabalho\SalesforceConnetion\VerifyWSDLTest\VerifyWSDLTest\obj\Debug\VerifyWSDLTest.exe
+C:\Users\Victo\OneDrive\Área de Trabalho\SalesforceConnetion\VerifyWSDLTest\VerifyWSDLTest\obj\Debug\VerifyWSDLTest.pdb
